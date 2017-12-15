@@ -1,0 +1,16 @@
+This is a 2048 game written in C  (standard C99)
+ with a little clean interface for shell.
+Move with the arrows to get a 2048 box (or more).
+It looks like this:
+
+    ┌────┬────┬────┬────┐ Moves:    89
+    │   4│   8│  64│ 128│
+    ├────┼────┼────┼────┤
+    │    │    │  16│   8│
+    ├────┼────┼────┼────┤
+    │    │    │   4│   2│
+    ├────┼────┼────┼────┤
+    │   4│    │    │   2│
+    └────┴────┴────┴────┘
+
+Hope you enjoy it :D
